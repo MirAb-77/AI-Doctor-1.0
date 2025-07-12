@@ -1,4 +1,4 @@
-# AI Doctor 1.0 – Voice and Vision
+# AI Doctor 2.0 – Voice and Vision
 
 **Multimodal AI Diagnostic Assistant Powered by Voice, Vision, and Transformer Intelligence**
 <img width="2842" height="1642" alt="Interface" src="https://github.com/user-attachments/assets/950a8d97-6556-4209-a882-d1522ea94c1c" />
